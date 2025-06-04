@@ -1,0 +1,10 @@
+.e-opposite-content {
+    display: none !important;
+}
+.e-timeline .e-timeline-item.e-connector::after {
+    left: 23px !important;
+}
+.custom-connector .e-timeline-item.e-connector::after {
+    border-color: #e5e7eb;
+    border-width: 1.4px;
+}
